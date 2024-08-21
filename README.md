@@ -60,4 +60,4 @@ In the request URL field, enter: http://127.0.0.1:5000/predict
 5. Set the Request Body:
 Click on the "Body" tab.
 Select "raw" and choose "JSON" from the dropdown menu.
-Paste the following example JSON data (modify as needed):
+Paste the following example JSON data (modify as needed): (Open Postman_commands.json for commands)
